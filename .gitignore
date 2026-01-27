@@ -1,0 +1,9 @@
+.env
+secrets.conf
+*.swp
+*.tmp
+printer-[0-9]*_[0-9]*.cfg
+*.bak
+*.bkp
+*.csv
+rpicam-apps_1.9.0-2_arm64.zip
